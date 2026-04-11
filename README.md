@@ -1,1 +1,1 @@
-Пшонний Роман КВ-31 Лабораторна робота №1 "Розробка статичного інтерфейсу Web-додатка", Сайт для створення опитувань, https://docs.google.com/document/d/1P-1Bq5_BB5ahlT8cbLEyNz0ffgxLVmZZ_oyCh7U7Fv0/edit?tab=t.0 
+Пшонний Роман КВ-31 Лабораторна робота №2 "Розробка функціональності Web-додатка мовою Javascript", Сайт для створення опитувань, https://doogeex5zz-ctrl.github.io/profile.html
